@@ -5,11 +5,13 @@ public final class NumeroRomanoConverter {
 	private NumeroRomanoConverter(){}
 	
 	public static String toNumeroRomano(int numeroArabico){
-		throw new UnsupportedOperationException();
+		// Nenhuma implementação.
+		// Os testes falharão.
+		return "";
 	}
 	
 	public static int fromNumeroRomano(String numeroRomano){
-		throw new UnsupportedOperationException();
+		return 0;
 	}	
 	
 }
